@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.dataRender {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  /* border: 1px solid; */
+  margin: 5px 0;
+}
+
+.dataRender:hover {
+  background-color: sandybrown;
+}
